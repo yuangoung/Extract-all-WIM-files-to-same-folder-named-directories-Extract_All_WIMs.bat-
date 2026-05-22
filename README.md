@@ -1,2 +1,2 @@
 # Extract-all-WIM-files-to-same-folder-named-directories-Extract_All_WIMs.bat-
-Extract all WIM files to same-folder named directories
+This batch script scans a user-specified folder for all .wim files, then automatically extracts each one using image index 1. Each WIM file is extracted into a new folder with the same name as the WIM file, created in the same directory. After successful extraction, the script can optionally delete the original .wim files.
